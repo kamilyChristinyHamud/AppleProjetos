@@ -11,7 +11,7 @@ Nesse repositório contém os arquivos necessários para a inscrição do proces
 [Clique nesse link para vizualizar] (https://drive.google.com/file/d/1lqhqA2fcYLtCbuMjb8-83csNei2dLQoU/view?usp=drive_link)
 
 # Aspectos Legais de Segurança e Privacidade
-[Clique nesse link para vizualizar] (https://drive.google.com/file/d/1lqhqA2fcYLtCbuMjb8-83csNei2dLQoU/view?usp=drive_link)
+[Clique nesse link para vizualizar] (https://drive.google.com/file/d/199GAQiP0cQIGiQByTk9M24TL61X_SGQ6/view?usp=drive_link)
 
 # Projeto Smart City.
 [Clique nesse link para vizualizar] (https://drive.google.com/file/d/1mohbE7xUW6kEKR2VSvygNQnUZb6uv3i8/view?usp=drive_link)
