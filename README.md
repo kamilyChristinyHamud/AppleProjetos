@@ -1,6 +1,9 @@
 # Apple Projetos.
 Nesse repositório contém os arquivos necessários para a inscrição do processo seletivo da Apple Developer Academy PUCPR. Coleção de Criações Kamily Hamud.
 
+# Link para o repositório GitHub Apple Projetos.
+[Clique nesse link para vizualizar] (https://github.com/kamilyChristinyHamud/AppleProjetos/blob/65af78ea997c6d18bdb5836078faf77143640862/README.md)
+
 # Mapeamento Objeto Relacional (ORM) com o SQLAlchemy.
 [Clique nesse link para vizualizar] (https://drive.google.com/drive/folders/1_rY0Q8IIsOYkz-BfU5p5rw9DZEmb7y9x?usp=sharing) 
 
